@@ -2,20 +2,7 @@
 
 #EXTINF:-1,ALVAROTV NETFLIX
 
-#EXTINF:-1, ESTRENOS1
-http://iptvplustv.online:8000/Hanner/5WPEzMnYE87H/876932
-
-#EXTINF:-1, ESTRENOS2
-http://iptvplustv.online:8000/Hanner/5WPEzMnYE87H/876933
-
-#EXTINF:-1, ESTRENOS3
-http://iptvplustv.online:8000/Hanner/5WPEzMnYE87H/876934
-
-#EXTINF:-1, ESTRENOS4
-http://iptvplustv.online:8000/Hanner/5WPEzMnYE87H/876935
-
-#EXTINF:-1, ESTRENOS5
-http://iptvplustv.online:8000/Hanner/5WPEzMnYE87H/876936
+#EXTINF:-1, ESTRENOS1http://iptvplustv.online:8000/Mariomancia1202/PVBzFn32Ze/876936
 
 
 #EXTINF:-1, ESTRENOS6
